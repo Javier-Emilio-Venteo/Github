@@ -178,6 +178,18 @@ border: solid 3px #000000;
     
 }
 
+.container-xxl{
+    background-color: #ffffff;
+}
+
+.columna{
+    background-color: aliceblue;
+    border: 3px solid #ffffff;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+}
+
+
 .caja1{
     text-align: center;
     font-size: 30px;
@@ -194,7 +206,7 @@ border: solid 3px #000000;
 
 .seccion-5{
     text-align:left;
-    color: rgb(1, 27, 145);
+    color: rgb(255, 255, 255);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
      /*Laptops*/
@@ -267,3 +279,5 @@ border: solid 3px #000000;
       .seccion-2 {
             color: rgb(0, 204, 255);
         }
+   }
+          
